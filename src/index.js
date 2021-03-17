@@ -1,7 +1,7 @@
 import "./styles.css";
 
 let greetings = () => {
-  return "Hello World!";
+  return "Hello Tamas!";
 };
 
 let message = greetings();
